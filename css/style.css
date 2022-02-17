@@ -1,0 +1,97 @@
+body{
+	min-width: 700px;
+	background-image:url(../images/text0.jpg);
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	background-attachment:fixed;
+}
+.up{
+	margin-bottom: 165px;
+}
+#gform{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+#search{
+	border:5px solid #4C8BF4;
+	background-color: black;
+	border-radius:100px;
+	width: 40%;
+	height: 45px;
+	color:#4C8BF4;
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+#search:hover{
+	box-shadow:0px 5px 7px #4C4BF4
+}
+#search:focus{
+	box-shadow:0px 5px 7px #4C4BF4
+}
+
+.golgole{
+	padding:15px;
+	margin-top:20px;
+	margin-right:auto;
+	margin-bottom:20px;
+	text-align: center;
+}.img{
+	background-color: black;
+	padding-top: 10px;
+	height:170px;
+	border:5px solid #4C8BF4;
+	border-radius:100px;
+}
+.img:hover{
+	box-shadow:2px 10px 7px #4C4BF4
+}
+/* праве ліве*/
+.left{
+	float:left;
+	margin-left: 25px;
+}
+.right{
+	float:right;
+	margin-right: 25px;
+}
+/*перший ряд*/
+.borderfirst{
+	border:5px solid #4C8BF4;
+	border-radius:50px;	
+}
+.first{
+	background-color:#4C8BF4;
+	padding: 15px;
+	width: 100px;
+}
+.first:hover{
+		box-shadow:2px 10px 7px #4C4BF4
+}
+/*другий ряд*/
+.second{
+	background-color:#D3101C;
+	padding: 15px;
+	width: 100px;
+}
+.second:hover{
+	box-shadow:2px 10px 7px #AF0000;
+}
+.bordersecond{
+	border:5px solid #D3101C;
+	border-radius:50px;	
+}
+.steam{
+	background-color:#D3101C;
+	padding-left: 0px;
+	padding-right:0px; 
+	padding-top:15px;
+	padding-bottom:15px;
+	height:95px;
+}
+.steam:hover{
+	box-shadow:2px 10px 7px #AF0000;
+}
