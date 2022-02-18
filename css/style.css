@@ -1,5 +1,5 @@
 body{
-	min-width: 700px;
+	min-width: 1000px;
 	background-image:url(../images/text0.jpg);
 	background-repeat:no-repeat;
 	background-size: 100% 100%;
@@ -35,7 +35,7 @@ body{
 
 .golgole{
 	padding:15px;
-	margin-top:20px;
+	margin-top:10px;
 	margin-right:auto;
 	margin-bottom:20px;
 	text-align: center;
